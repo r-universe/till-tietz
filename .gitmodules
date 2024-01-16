@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CausalQueries"]
-	path = CausalQueries
-	url = https://github.com/cran/CausalQueries
 [submodule "parsel"]
 	path = parsel
 	url = https://github.com/till-tietz/parsel
